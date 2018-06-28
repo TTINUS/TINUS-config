@@ -6,3 +6,4 @@ Website ➟https://tinuss.000webhostapp.com
 
 Twitch ➟ twitch.tv/PANDEN
 
+[GitHub Pages](https://pages.github.com/)
