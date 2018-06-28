@@ -1,9 +1,9 @@
-Youtube ➟ www.youtube.com/channel/UCPQlkq2A5L5NS3izlKxWs8A?view_as=subscriber
+Youtube ➟ [Click here](www.youtube.com/channel/UCPQlkq2A5L5NS3izlKxWs8A?sub_confirmation=1)
 
-Steam ➟ steamcommunity.com/id/-Tinus
+Steam ➟ [Click here](https://steamcommunity.com/id/-tinus/)
 
-Website ➟https://tinuss.000webhostapp.com
+Website ➟ [Click here](https://tinuss.000webhostapp.com)
 
-Twitch ➟ twitch.tv/PANDEN
+Twitch ➟ [Click here](https://www.twitch.tv/PANDEN)
 
-[GitHub Pages](https://pages.github.com/)
+
